@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="tvAmt">Amount</string>
+    <string name="etAmtHint">Enter Amount Here</string>
+    <string name="tvNumPax">Num Of Pax</string>
+    <string name="etNumHint">Enter Number Of Pax Here</string>
+    <string name="tbSVS">NO SVS</string>
+    <string name="tbGST">GST</string>
+    <string name="tvDis">Discount (%)</string>
+    <string name="etDisHint">Enter Discount Here</string>
+    <string name="rbCash">Cash</string>
+    <string name="rbPayNow">PayNow</string>
+    <string name="btnSpl">SPLIT</string>
+    <string name="btnRes">RESET</string>
+</resources>
